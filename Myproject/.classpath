@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/byte-buddy-1.9.12.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/client-combined-4.0.0-alpha-2.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/client-combined-4.0.0-alpha-2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/extentreports-3.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/guava-27.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/listenablefuture-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/okhttp-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/okio-1.17.3.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/opentracing-api-0.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/opentracing-noop-0.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/opentracing-tracerresolver-0.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/opentracing-util-0.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/poi-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/poi-ooxml-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/poi-ooxml-schemas-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/selenium-server-standalone-4.0.0-alpha-2 (2).jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/sikuli-script.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/sikulixapi.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/sikulixlibswin.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/sel_prac/library/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
